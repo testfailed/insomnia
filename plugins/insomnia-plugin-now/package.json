@@ -22,7 +22,7 @@
     "test": "jest --silent"
   },
   "dependencies": {
-    "moment": "^2.21.0"
+    "moment": "^2.29.2"
   },
   "gitHead": "e46bf021cf4b4379e31d2b2d9025d476d6839fa1"
 }
