@@ -34,7 +34,7 @@
     "ramda": "^0.27.1",
     "ramda-adjunct": "^2.33.0",
     "shell-quote": "^1.7.2",
-    "yaml": "^1.10.0"
+    "yaml": "^2.4.1"
   },
   "devDependencies": {
     "@jest/globals": "^28.1.0",
