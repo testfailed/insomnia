@@ -33,6 +33,6 @@
     "@jest/globals": "^28.1.0"
   },
   "dependencies": {
-    "tough-cookie": "^2.3.3"
+    "tough-cookie": "^4.1.3"
   }
 }
